@@ -6,3 +6,7 @@ Lightweight Simple Express API built using NodeJS and MongoDB for database stora
 * Middleware
 * Server side rendering
 * Project organized according to the MVC architecture
+
+Technologies:
+  * Bcrypt used for hashing
+  * JsonWebToken used for tokenization
