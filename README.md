@@ -1,5 +1,5 @@
 # expressAPI
-Lightweight Simple Express API built using NodeJS and MongoDB for database storage
+Simple REST Express API built using NodeJS and MongoDB for database storage
 * Routing
 * Handling of CRUD requests and responses
 * Handling authentication 
